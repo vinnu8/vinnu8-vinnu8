@@ -15,5 +15,5 @@
   ⚙️ VS Code | Git | GitHub
 </p>
 <hr>
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinnu8)
+
 <p align="center">✨ Still learning. Still building. ✨</p>
