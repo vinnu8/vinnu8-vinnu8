@@ -14,6 +14,7 @@
   💡 C | C++ | HTML | Java| Pyhton| SQL<br>
   ⚙️ VS Code | Git | GitHub
 </p>
-
+<hr>
+![Stats](https://github-readme-stats.vercel.app/api?username=vinnu8&show_icons=true)
 
 <p align="center">✨ Still learning. Still building. ✨</p>
