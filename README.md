@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Vinnu</h1>
+<h1 align="center">Hey, I'm Vineeta</h1>
 
 <p align="center">
   💻 Diploma Computer Engineering Student <br>
