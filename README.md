@@ -2,8 +2,7 @@
 
 <p align="center">
   💻 Diploma Computer Engineering Student <br>
-  🚀 Learning C, C++, Java, Python & Web Development <br>
-  🎯 Goal: Become a skilled developer
+  🚀 Full Stack <br>
 </p>
 
 <hr>
