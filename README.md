@@ -1,34 +1,54 @@
+
 <div align="center">
 
-<img src="assets/header.gif" alt="Vinnu — Building things that make sense" width="100%" />
+<img src="assets/header.png" width="100%" alt="Vinnu's profile header" />
 
-<p><b>Computer Engineering Student · Aspiring Software Developer</b><br/>
-Building useful things, learning in public, and exploring open source.</p>
+<br/>
 
-<p>
-<a href="#-about-me">ABOUT</a> · <a href="#-selected-work">PROJECTS</a> ·
-<a href="#-toolkit">TOOLKIT</a> · <a href="#-open-source">OPEN SOURCE</a> ·
-<a href="#-connect">CONNECT</a>
-</p>
+# VINNU
+### Computer Engineering Student · Aspiring Software Developer
 
-<img src="assets/divider.svg" width="100%" alt="" />
+*Building things, learning in public, and exploring the world of software.*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=4169E1)](https://github.com/YOUR-USERNAME)
 
 </div>
 
-## `01 / about-me`
+---
 
-Hey, I'm **Vinnu** — a computer engineering diploma student interested in software development, web apps, and practical AI applications.
+## 01 / `about-me`
 
-I like turning ideas into working projects, learning how things work under the hood, and improving through building.
+```python
+class Developer:
+    def __init__(self):
+        self.role = "Computer Engineering Student"
+        self.interests = [
+            "Software Development",
+            "Web Applications",
+            "Open Source",
+            "Developer Tools",
+            "AI-powered Applications"
+        ]
+        self.current_focus = [
+            "JavaScript",
+            "Python",
+            "Data Structures & Algorithms",
+            "Building real-world projects"
+        ]
 
-- **Currently learning:** JavaScript and stronger full-stack fundamentals
-- **Building:** QueryGenie, a database and analytics project
-- **Exploring:** Open-source contributions, developer tools, and AI-powered apps
-- **Looking for:** Beginner-friendly collaborations, feedback, and opportunities to contribute
+    def motto(self):
+        return "Learn. Build. Break things. Improve."
+```
 
-<img src="assets/divider.svg" width="100%" alt="" />
+I'm a computer engineering student exploring software development through hands-on projects. I enjoy figuring out how things work, turning ideas into applications, and connecting with developers who are learning and building too.
 
-## `02 / selected-work`
+---
+
+## 02 / `selected-work`
 
 <table>
 <tr>
@@ -36,91 +56,88 @@ I like turning ideas into working projects, learning how things work under the h
 
 ### ◈ QueryGenie
 
-**AI-powered database and business analytics — in development**
+**AI-powered database & business analytics**
 
-Exploring ways to make database querying and business insights more accessible through a web application.
+A project exploring how natural language can make database querying and business insights more accessible.
 
-`Python` `Flask` `JavaScript` `MySQL`
+- Python
+- Flask
+- JavaScript
+- MySQL
 
-[↗ View repositories](https://github.com/YOUR-USERNAME?tab=repositories)
+[↗ View repository](https://github.com/YOUR-USERNAME/YOUR-QUERYGENIE-REPO)
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Next project
+### ◈ Shopify
 
-**A space for the next useful thing**
+**E-commerce project**
 
-This card is ready for a project with a clear problem, a working demo, and a README explaining the decisions behind it.
+Exploring e-commerce experiences and Shopify-based development.
 
-`Build` `Document` `Improve`
+- Shopify
+- E-commerce
+- Web Development
 
-[↗ Explore repositories](https://github.com/YOUR-USERNAME?tab=repositories)
+[↗ View project](YOUR-SHOPIFY-PROJECT-URL)
 
 </td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+---
 
-## `03 / toolkit`
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,flask,mysql,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Python, Java, Flask, MySQL, Git, GitHub, VS Code" />
-</p>
-
-> This is my current learning toolkit, not a claim of equal proficiency in every technology.
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## `04 / open-source`
-
-I'm interested in contributing to welcoming projects where I can learn from code reviews and help ship useful improvements.
-
-- Frontend fixes and usability improvements
-- Documentation and beginner-friendly issues
-- Small features, bug fixes, and practical web applications
-
-**Have a project that could use another pair of hands?** Feel free to open an issue or reach out.
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## `05 / currently`
-
-<table>
-<tr>
-<td align="center" width="33%"><b>LEARNING</b><br/><br/>JavaScript<br/>Full-stack fundamentals</td>
-<td align="center" width="33%"><b>BUILDING</b><br/><br/>QueryGenie<br/>Practical web projects</td>
-<td align="center" width="33%"><b>EXPLORING</b><br/><br/>Open source<br/>Developer communities</td>
-</tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## `06 / github telemetry`
+## 03 / `toolkit`
 
 <div align="center">
 
-<!-- Third-party widgets can occasionally be unavailable. -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=111719&title_color=D9F99D&text_color=F5F5EF&icon_color=B5C4BB" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=111719&title_color=D9F99D&text_color=F5F5EF" alt="Most-used languages" />
+### Languages & Web
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java" alt="HTML, CSS, JavaScript, Python and Java" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true&background=111719&ring=D9F99D&fire=D9F99D&currStreakLabel=F5F5EF&sideLabels=B5C4BB&dates=84978A&currStreakNum=F5F5EF&sideNums=F5F5EF" alt="GitHub contribution streak" />
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,flask" alt="Git, GitHub, VS Code, MySQL and Flask" />
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+---
 
-## `07 / connect`
+## 04 / `open-source`
 
-I'm always happy to meet developers, learn about interesting projects, and collaborate with people who enjoy building things.
+I'm working towards becoming a more active member of the open-source community.
 
-- **GitHub:** [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- **LinkedIn:** [Add your LinkedIn profile](YOUR-LINKEDIN-URL)
+- 🔎 Exploring projects where I can make meaningful contributions.
+- 🛠️ Improving my skills by reading real-world code.
+- 🌱 Learning how to collaborate through issues, pull requests, and code reviews.
+- 🤝 Looking to connect with beginner-friendly contributors and maintainers.
+
+**If you're building something interesting, let's connect.**
+
+---
+
+## 05 / `currently`
+
+| Area | Focus |
+|:---|:---|
+| Learning | JavaScript, Java, Python & DSA |
+| Building | QueryGenie and web applications |
+| Exploring | Open-source projects & developer tools |
+| Improving | Problem-solving, communication & collaboration |
+
+---
+
+## 06 / `connect`
 
 <div align="center">
-<img src="assets/divider.svg" width="100%" alt="" />
-<sub>Designed with intention. Built one commit at a time.</sub>
+
+**Always open to learning, collaborating, and meeting fellow developers.**
+
+[GitHub](https://github.com/YOUR-USERNAME) · [LinkedIn](YOUR-LINKEDIN-URL)
+
+<br/>
+
+<sub>Designed with curiosity. Built one commit at a time.</sub>
+
 </div>
