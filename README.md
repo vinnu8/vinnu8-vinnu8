@@ -1,111 +1,126 @@
-
 <div align="center">
-  <img src="assets/header.svg" alt="Vinnu — Developer Profile" width="100%" />
 
-  <br />
+<img src="assets/header.gif" alt="Vinnu — Building things that make sense" width="100%" />
 
-  <p>
-    <b>Computer Engineering Student · Aspiring Software Developer</b>
-  </p>
+<p><b>Computer Engineering Student · Aspiring Software Developer</b><br/>
+Building useful things, learning in public, and exploring open source.</p>
 
-  <p>
-    Building useful things, learning in public, and exploring open source.
-  </p>
+<p>
+<a href="#-about-me">ABOUT</a> · <a href="#-selected-work">PROJECTS</a> ·
+<a href="#-toolkit">TOOLKIT</a> · <a href="#-open-source">OPEN SOURCE</a> ·
+<a href="#-connect">CONNECT</a>
+</p>
 
-  <a href="#selected-work">PROJECTS</a> ·
-  <a href="#toolkit">TOOLKIT</a> ·
-  <a href="#collaborate">COLLABORATE</a>
+<img src="assets/divider.svg" width="100%" alt="" />
+
 </div>
 
----
+## `01 / about-me`
 
-## 01 / `whoami`
+Hey, I'm **Vinnu** — a computer engineering diploma student interested in software development, web apps, and practical AI applications.
 
-Hey, I'm Vinnu.
+I like turning ideas into working projects, learning how things work under the hood, and improving through building.
 
-I'm a computer engineering diploma student interested in software
-development, web technologies, and AI-powered applications.
+- **Currently learning:** JavaScript and stronger full-stack fundamentals
+- **Building:** QueryGenie, a database and analytics project
+- **Exploring:** Open-source contributions, developer tools, and AI-powered apps
+- **Looking for:** Beginner-friendly collaborations, feedback, and opportunities to contribute
 
-I enjoy turning ideas into working projects and learning by building.
-I'm currently strengthening my JavaScript and full-stack development
-skills while exploring opportunities to collaborate with other developers.
+<img src="assets/divider.svg" width="100%" alt="" />
 
-- **Currently learning:** JavaScript, backend development, and databases
-- **Currently exploring:** Open source and collaborative projects
-- **Interested in:** Web development, developer tools, and practical AI applications
-- **My approach:** Build → understand → improve → share
+## `02 / selected-work`
 
-## 02 / `selected-work`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### QueryGenie
-`Python` · `Flask` · `HTML` · `CSS` · `JavaScript` · `MySQL`
+### ◈ QueryGenie
 
-An AI-oriented application concept focused on making data querying and
-analytics more accessible.
+**AI-powered database and business analytics — in development**
 
-- Building the application step by step, starting with authentication.
-- Exploring backend routes, database integration, and the user interface.
+Exploring ways to make database querying and business insights more accessible through a web application.
 
-[View repository](https://github.com/YOUR-USERNAME/YOUR-QUERYGENIE-REPO)
+`Python` `Flask` `JavaScript` `MySQL`
 
-### More projects, experiments, and things I'm learning
+[↗ View repositories](https://github.com/YOUR-USERNAME?tab=repositories)
 
-I'm working toward a portfolio of projects that solve real problems,
-demonstrate technical understanding, and are useful to other people.
+</td>
+<td width="50%" valign="top">
 
-<!-- Add your next project here when it is ready to showcase. -->
+### ◈ Next project
 
-## 03 / `toolkit`
+**A space for the next useful thing**
 
-**Languages**
+This card is ready for a project with a clear problem, a working demo, and a README explaining the decisions behind it.
 
-HTML · CSS · JavaScript · Java · Python · SQL
+`Build` `Document` `Improve`
 
-**Web development**
+[↗ Explore repositories](https://github.com/YOUR-USERNAME?tab=repositories)
 
-Flask · Node.js *(learning and exploring)*
+</td>
+</tr>
+</table>
 
-**Databases**
+<img src="assets/divider.svg" width="100%" alt="" />
 
-MySQL
+## `03 / toolkit`
 
-**Developer tools**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,flask,mysql,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Python, Java, Flask, MySQL, Git, GitHub, VS Code" />
+</p>
 
-Git · GitHub · VS Code
+> This is my current learning toolkit, not a claim of equal proficiency in every technology.
 
-> This toolkit reflects my current learning journey, not equal proficiency
-> in every technology.
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 04 / `open-source`
+## `04 / open-source`
 
-I'd love to collaborate with beginner-friendly and welcoming open-source
-communities.
+I'm interested in contributing to welcoming projects where I can learn from code reviews and help ship useful improvements.
 
-I'm particularly interested in contributing to:
+- Frontend fixes and usability improvements
+- Documentation and beginner-friendly issues
+- Small features, bug fixes, and practical web applications
 
-- Web applications and frontend improvements
-- Documentation, bug fixes, and small feature implementations
-- Projects where I can learn from code reviews and collaborate with others
+**Have a project that could use another pair of hands?** Feel free to open an issue or reach out.
 
-If you're building something interesting and there's a suitable task for
-a developing contributor, I'd love to connect.
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 05 / `currently`
+## `05 / currently`
 
-**Learning:** JavaScript and stronger full-stack fundamentals  
-**Building:** Personal projects and practical applications  
-**Working toward:** Meaningful open-source contributions and developer collaborations
+<table>
+<tr>
+<td align="center" width="33%"><b>LEARNING</b><br/><br/>JavaScript<br/>Full-stack fundamentals</td>
+<td align="center" width="33%"><b>BUILDING</b><br/><br/>QueryGenie<br/>Practical web projects</td>
+<td align="center" width="33%"><b>EXPLORING</b><br/><br/>Open source<br/>Developer communities</td>
+</tr>
+</table>
 
-## 06 / `connect`
+<img src="assets/divider.svg" width="100%" alt="" />
 
-Have an interesting project, a beginner-friendly issue, or an idea worth
-building together?
-
-[GitHub](https://github.com/YOUR-USERNAME) ·
-[LinkedIn](YOUR-LINKEDIN-URL)
-
----
+## `06 / github telemetry`
 
 <div align="center">
-  <sub>Designed with intention. Built one commit at a time.</sub>
+
+<!-- Third-party widgets can occasionally be unavailable. -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=111719&title_color=D9F99D&text_color=F5F5EF&icon_color=B5C4BB" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=111719&title_color=D9F99D&text_color=F5F5EF" alt="Most-used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true&background=111719&ring=D9F99D&fire=D9F99D&currStreakLabel=F5F5EF&sideLabels=B5C4BB&dates=84978A&currStreakNum=F5F5EF&sideNums=F5F5EF" alt="GitHub contribution streak" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## `07 / connect`
+
+I'm always happy to meet developers, learn about interesting projects, and collaborate with people who enjoy building things.
+
+- **GitHub:** [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- **LinkedIn:** [Add your LinkedIn profile](YOUR-LINKEDIN-URL)
+
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+<sub>Designed with intention. Built one commit at a time.</sub>
 </div>
