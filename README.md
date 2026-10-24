@@ -1,86 +1,67 @@
 
 <div align="center">
 
-<img src="assets/header.png" width="100%" alt="Vinnu's profile header" />
+<br/>
+
+# VINEETA
+**Computer Engineering Student · Aspiring Software Developer**
+
+*Curious mind. Building things. Learning by doing.*
 
 <br/>
 
-# VINNU
-### Computer Engineering Student · Aspiring Software Developer
-
-*Building things, learning in public, and exploring the world of software.*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=4169E1)](https://github.com/YOUR-USERNAME)
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-4169E1?style=flat-square" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-181717?style=flat-square" />
 
 </div>
 
 ---
 
-## 01 / `about-me`
+### 01 — ABOUT ME
+
+I'm a computer engineering student exploring the world of software development, one project at a time.
+
+I enjoy turning ideas into working applications, exploring developer tools, and understanding how things work behind the scenes. Currently growing my skills through hands-on projects, open-source exploration, and continuous learning.
 
 ```python
-class Developer:
-    def __init__(self):
-        self.role = "Computer Engineering Student"
-        self.interests = [
-            "Software Development",
-            "Web Applications",
-            "Open Source",
-            "Developer Tools",
-            "AI-powered Applications"
-        ]
-        self.current_focus = [
-            "JavaScript",
-            "Python",
-            "Data Structures & Algorithms",
-            "Building real-world projects"
-        ]
-
-    def motto(self):
-        return "Learn. Build. Break things. Improve."
+class Vinnu:
+    role = "Computer Engineering Student"
+    interests = [
+        "Software Development",
+        "Web Applications",
+        "Open Source",
+        "Developer Tools",
+        "AI-powered Applications",
+        "DSA"
+    ]
+    mindset = "Build → Learn → Improve → Repeat"
 ```
-
-I'm a computer engineering student exploring software development through hands-on projects. I enjoy figuring out how things work, turning ideas into applications, and connecting with developers who are learning and building too.
 
 ---
 
-## 02 / `selected-work`
+### 02 — SELECTED WORK
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ QueryGenie
+**01 / QueryGenie**
 
-**AI-powered database & business analytics**
+`AI` `Flask` `JavaScript` `MySQL`
 
-A project exploring how natural language can make database querying and business insights more accessible.
+An AI-powered database and business analytics project exploring how natural language can make querying data and discovering insights more accessible.
 
-- Python
-- Flask
-- JavaScript
-- MySQL
-
-[↗ View repository](https://github.com/YOUR-USERNAME/YOUR-QUERYGENIE-REPO)
+*Currently in development.*
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Shopify
+**02 / Shopify**
 
-**E-commerce project**
+`Shopify` `E-commerce` `Web Development`
 
-Exploring e-commerce experiences and Shopify-based development.
+Exploring e-commerce development and Shopify-based experiences. AI recommendation chatbot for shopping
 
-- Shopify
-- E-commerce
-- Web Development
-
-[↗ View project](YOUR-SHOPIFY-PROJECT-URL)
 
 </td>
 </tr>
@@ -88,56 +69,50 @@ Exploring e-commerce experiences and Shopify-based development.
 
 ---
 
-## 03 / `toolkit`
+### 03 — TECH STACK
 
-<div align="center">
+**Languages & Web**
 
-### Languages & Web
-
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java" alt="HTML, CSS, JavaScript, Python and Java" />
+</p>
 
-### Tools & Technologies
+**Tools & Technologies**
 
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,flask" alt="Git, GitHub, VS Code, MySQL and Flask" />
-
-</div>
-
----
-
-## 04 / `open-source`
-
-I'm working towards becoming a more active member of the open-source community.
-
-- 🔎 Exploring projects where I can make meaningful contributions.
-- 🛠️ Improving my skills by reading real-world code.
-- 🌱 Learning how to collaborate through issues, pull requests, and code reviews.
-- 🤝 Looking to connect with beginner-friendly contributors and maintainers.
-
-**If you're building something interesting, let's connect.**
+</p>
 
 ---
 
-## 05 / `currently`
+### 04 — OPEN SOURCE
 
-| Area | Focus |
-|:---|:---|
-| Learning | JavaScript, Java, Python & DSA |
-| Building | QueryGenie and web applications |
-| Exploring | Open-source projects & developer tools |
-| Improving | Problem-solving, communication & collaboration |
+I'm working towards becoming an active contributor and learning how collaborative software is built in the real world.
+
+- Exploring repositories and finding beginner-friendly contribution opportunities.
+- Learning to navigate unfamiliar codebases.
+- Improving through issues, pull requests, and code reviews.
+- Connecting with developers who enjoy building and sharing knowledge.
+
+**Interested in collaboration, learning together, and building useful things.**
 
 ---
 
-## 06 / `connect`
+### 05 — CURRENTLY EXPLORING
+
+| Focus | What's next |
+|:--|:--|
+| Development | Building practical web applications |
+| Problem-solving | Data structures, algorithms & coding challenges |
+| Open source | First meaningful contributions |
+| Community | Connecting with developers and collaborators |
+
+---
 
 <div align="center">
 
-**Always open to learning, collaborating, and meeting fellow developers.**
+*Still learning. Still building. Always curious.*
 
-[GitHub](https://github.com/YOUR-USERNAME) · [LinkedIn](YOUR-LINKEDIN-URL)
-
-<br/>
-
-<sub>Designed with curiosity. Built one commit at a time.</sub>
+<sub>Made with curiosity & a lot of commits.</sub>
 
 </div>
