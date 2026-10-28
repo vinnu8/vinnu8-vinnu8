@@ -74,7 +74,7 @@ Exploring e-commerce development and Shopify-based experiences. AI recommendatio
 **Languages & Web**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java" alt="HTML, CSS, JavaScript, Python and Java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,c++" alt="HTML, CSS, JavaScript, Python, Java, C and C++" />
 </p>
 
 **Tools & Technologies**
