@@ -3,7 +3,7 @@
 
 <br/>
 
-# VINEETA
+# VINEETA ARYA
 **Computer Engineering Student · Aspiring Software Developer**
 
 *Curious mind. Building things. Learning by doing.*
