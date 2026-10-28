@@ -60,7 +60,7 @@ An AI-powered database and business analytics project exploring how natural lang
 
 `Shopify` `E-commerce` `Web Development`
 
-Exploring e-commerce development and Shopify-based experiences. AI recommendation chatbot for shopping
+Exploring e-commerce development and Shopify-based experiences. AI recommendation chatbot for shopping for managing budget and suggesting best products.
 
 
 </td>
